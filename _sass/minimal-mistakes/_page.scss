@@ -411,6 +411,7 @@ body {
   }
 }
 
+
 .back-to-top {
   display: block;
   clear: both;
@@ -420,6 +421,19 @@ body {
   text-align: right;
   text-decoration: none;
 }
+
+.fa-chevron-circle-up{
+  position: fixed;
+  bottom: 150px;
+  right: 25px;
+ color:$base0d;
+ font-size: 2em;
+ text-transform: uppercase;
+ text-align: right;
+ text-decoration: none;
+}
+
+
 
 /*
    Comments
